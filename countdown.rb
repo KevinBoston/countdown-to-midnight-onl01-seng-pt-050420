@@ -2,4 +2,9 @@
 
 def countdown(x)
   
+  puts "#{x} (SECONDS)!"
+  
+  
+  
+  
 end
